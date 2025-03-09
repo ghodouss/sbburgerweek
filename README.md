@@ -11,10 +11,10 @@ Tags Legend
 | -----------|------|------------|-----|
 | Intermezza | V+   | Tu-Sa: 5-9 |
 | La Paloma  | V+   | We-Su: 11:30-2:30, 5-630|  wagyu|
-| SBFC       | C    | M-Sa: 1-7| guac |
+| SBFC       | C    | M-Sa: 1-7| guac, 8 |
 | Blackbird  | V+   | Tu-Sa: 5-10 |
 | Gala       | V+   | Tu-Sa: 4-9 | fried tomatos |
-| SBFM       | C    | 10-7 | tuna & salmon|
+| SBFM       | C    | 10-7 | tuna 6 & salmon 8.5|
 --------------------------------------
 
 
@@ -22,7 +22,7 @@ Tags Legend
 | Restaruant | Tags | Hours | Notes|
 | -----------|------|------------|-----|
 | Brewhouse  | C+   | M 4-9, 11-9| maybe only on monday?|
-| mesa burger| C   |11-8| surf and turf|
+| mesa burger| C   |11-8| surf and turf 9|
 | finch and fork | V+ |  7-2, 4-9| 
 --------------------------------------
 
@@ -37,7 +37,7 @@ Tags Legend
 ## Something New (Tier 2+)
 | Restaruant | Tags | Hours | Notes|
 | -----------|------|------------|-----|
-| Petra Cafe   | C+    | Tu-Su: 12-11| Falafel |
+| Petra Cafe   | C+    | Tu-Su: 12-11| Falafel 7.5 |
 | Poke House  | C+   | 11-9 | Tuna Poke |
 | Daves Dogs  | C   | M-Sa: 11-11 | fried chicken |
 | SBFM       | C    | 10-7 | tuna & salmon|
