@@ -2,7 +2,7 @@
 
 Tags Legend
 * V: upscale vibe
-* C: chilld vibe
+* C: chilled vibe
 * +: Easy bike from oak park
 
 
